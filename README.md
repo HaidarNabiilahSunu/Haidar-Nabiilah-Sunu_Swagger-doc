@@ -59,3 +59,21 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📌 About This Project
+
+**Haidar-Nabiilah-Sunu_Swagger-doc** adalah repositori yang memuat dokumentasi resmi RESTful API yang dirancang dan disajikan menggunakan **Swagger UI (OpenAPI Specification)**. 
+
+Proyek ini dibuat oleh **Haidar Nabiilah Sunu** untuk menyediakan panduan API yang terstruktur, jelas, dan interaktif. Dengan dokumentasi ini, developer dapat dengan mudah memahami arsitektur endpoint, skema request/response, autentikasi, serta melakukan pengujian endpoint secara nyata (*live testing*).
+
+### 🎯 Tujuan Utama
+* **Standardisasi API:** Menyediakan acuan tunggal (*single source of truth*) untuk struktur skema data dan parameter API.
+* **Pengujian Interaktif:** Memungkinkan pengujian request/response secara langsung melalui antarmuka Swagger UI.
+* **Efisiensi Integrasi:** Mempercepat proses integrasi antara sisi *backend* dan *frontend/client*.
+
+### 🛠️ Teknologi & Tooling
+* **OpenAPI 3.0 / Swagger UI** – Format spesifikasi & antarmuka dokumentasi API
+* **JSON / YAML** – Format definisi data dan struktur endpoint
+* **Git & GitHub** – Manajemen versi dan kolaborasi kode
